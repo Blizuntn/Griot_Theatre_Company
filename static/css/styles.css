@@ -1,50 +1,35 @@
-.navbar-brand{
-    font-size:2em;
-}
-
-.navbar{
-    color: #000000
-}
-
-.navbar-nav > li > a {
-    display: inline-block;
-    position: relative;
-    font-family: Georgia;
-    font-size: 2em;
+.nav-item{
     padding-left: 5em;
-    padding-right: 2em;
-    
+    padding-right: 5em;
+    padding-top: 5px;
+    padding_bottom:50px;
+    color: white;
+    margin-top:5px;
+    margin-bottom:10px;
+    font-family: Georgia;
+    font-size:15px;
+
+}
+.navbar-brand{
+    font-size: 1.5em;
+    font-family: Georgia;
+    padding-bottom: 50px;
+}
+.card{
+    margin-top:4.1em;
+    padding-top:.5em;
 }
 .card-title{
+    text-align: center;
+
     position:relative;
-    font-size: 17em;
+    margin-top:171px;
     font-family: Georgia;
-    text-align: center;    
+    font-size: 65px;
+
 }
-#home_link{
-    position:relative;
-    margin-right: 100px;
-}
-#features_link{
-    position:relative;
-    margin-right: 100px;
-}
-#actors_link{
-    position:relative;
-    margin-right: 100px;
-}
-#Mission_link{
-    position: relative;
-    margin-right: 100px;
-}
-#contact_link{
-    position: relative;
-    margin-right: 550px;
-}
-#show{
-    position:relative;
-    margin-top: 1em;
-    padding-bottom: 240px;
-    margin-left: 1em;
-    min-width: 1200px;
+.whitebox{
+    margin-top: 3em;
+    padding-top: 5em;
+    padding-bottom: 5em;
 }
