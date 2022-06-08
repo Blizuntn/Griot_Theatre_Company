@@ -1,1 +1,50 @@
+.navbar-brand{
+    font-size:2em;
+}
 
+.navbar{
+    color: #000000
+}
+
+.navbar-nav > li > a {
+    display: inline-block;
+    position: relative;
+    font-family: Georgia;
+    font-size: 2em;
+    padding-left: 5em;
+    padding-right: 2em;
+    
+}
+.card-title{
+    position:relative;
+    font-size: 17em;
+    font-family: Georgia;
+    text-align: center;    
+}
+#home_link{
+    position:relative;
+    margin-right: 100px;
+}
+#features_link{
+    position:relative;
+    margin-right: 100px;
+}
+#actors_link{
+    position:relative;
+    margin-right: 100px;
+}
+#Mission_link{
+    position: relative;
+    margin-right: 100px;
+}
+#contact_link{
+    position: relative;
+    margin-right: 550px;
+}
+#show{
+    position:relative;
+    margin-top: 1em;
+    padding-bottom: 240px;
+    margin-left: 1em;
+    min-width: 1200px;
+}
